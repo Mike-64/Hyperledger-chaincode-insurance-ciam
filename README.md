@@ -2,9 +2,9 @@
 
 Vehicle Insurance Claim chaincode for the Hyperledger Fabric
 
-## State Machine
-Chaincode business logic can go through several states:
-* No claim (invalid state)
+## Business States
+
+* No claim
 * Claim Applied
 * Claim rejected
 * Coverage Estimation
